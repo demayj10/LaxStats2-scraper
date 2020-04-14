@@ -1,0 +1,716 @@
+2020-04-13 18:38:03 [scrapy.utils.log] INFO: Scrapy 1.7.3 started (bot: laxstatscraper)
+2020-04-13 18:38:03 [scrapy.utils.log] INFO: Versions: lxml 4.4.1.0, libxml2 2.9.5, cssselect 1.1.0, parsel 1.5.2, w3lib 1.21.0, Twisted 19.7.0, Python 3.6.4 (v3.6.4:d48eceb, Dec 19 2017, 06:54:40) [MSC v.1900 64 bit (AMD64)], pyOpenSSL 17.5.0 (OpenSSL 1.1.0g  2 Nov 2017), cryptography 2.1.4, Platform Windows-10-10.0.18362-SP0
+2020-04-13 18:38:03 [scrapy.crawler] INFO: Overridden settings: {'BOT_NAME': 'laxstatscraper', 'CONCURRENT_REQUESTS': 32, 'LOG_FILE': 'F:\\ReactProjects\\laxstats2\\laxstatscraper\\laxstatscraper\\logs\\dump\\2020-04-13-dump.log', 'NEWSPIDER_MODULE': 'laxstatscraper.spiders', 'SPIDER_MODULES': ['laxstatscraper.spiders'], 'USER_AGENT': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1'}
+2020-04-13 18:38:03 [scrapy.extensions.telnet] INFO: Telnet Password: 2506fc09e33ef71d
+2020-04-13 18:38:03 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2020-04-13 18:38:03 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy_proxy_pool.middlewares.ProxyPoolMiddleware',
+ 'scrapy_proxy_pool.middlewares.BanDetectionMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2020-04-13 18:38:03 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2020-04-13 18:38:04 [scrapy.middleware] INFO: Enabled item pipelines:
+['laxstatscraper.pipelines.LaxstatscraperPipeline']
+2020-04-13 18:38:04 [scrapy.core.engine] INFO: Spider opened
+2020-04-13 18:38:04 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2020-04-13 18:38:04 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2020-04-13 18:38:04 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): free-proxy-list.net
+2020-04-13 18:38:04 [urllib3.connectionpool] DEBUG: https://free-proxy-list.net:443 "GET /anonymous-proxy.html HTTP/1.1" 200 None
+2020-04-13 18:38:04 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): free-proxy-list.net
+2020-04-13 18:38:04 [urllib3.connectionpool] DEBUG: https://free-proxy-list.net:443 "GET /uk-proxy.html HTTP/1.1" 200 None
+2020-04-13 18:38:04 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.sslproxies.org
+2020-04-13 18:38:04 [urllib3.connectionpool] DEBUG: https://www.sslproxies.org:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:38:04 [urllib3.connectionpool] DEBUG: Starting new HTTP connection (1): www.free-proxy-list.net
+2020-04-13 18:38:05 [urllib3.connectionpool] DEBUG: http://www.free-proxy-list.net:80 "GET / HTTP/1.1" 301 None
+2020-04-13 18:38:05 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.free-proxy-list.net
+2020-04-13 18:38:05 [urllib3.connectionpool] DEBUG: https://www.free-proxy-list.net:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:38:05 [urllib3.connectionpool] DEBUG: Starting new HTTP connection (1): www.proxy-daily.com
+2020-04-13 18:38:05 [urllib3.connectionpool] DEBUG: http://www.proxy-daily.com:80 "GET / HTTP/1.1" 301 None
+2020-04-13 18:38:05 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.proxy-daily.com
+2020-04-13 18:38:06 [urllib3.connectionpool] DEBUG: https://www.proxy-daily.com:443 "GET / HTTP/1.1" 301 None
+2020-04-13 18:38:06 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): proxy-daily.com
+2020-04-13 18:38:06 [urllib3.connectionpool] DEBUG: https://proxy-daily.com:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: EUC-JP Japanese prober hit error at byte 30652
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: GB2312 Chinese prober hit error at byte 30654
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: EUC-KR Korean prober hit error at byte 30652
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: CP949 Korean prober hit error at byte 30652
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: Big5 Chinese prober hit error at byte 30654
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: EUC-TW Taiwan prober hit error at byte 30652
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.7525
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: EUC-JP not active
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: GB2312 not active
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: EUC-KR not active
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: CP949 not active
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: Big5 not active
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: EUC-TW not active
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: windows-1251 Russian confidence = 0.01
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: KOI8-R Russian confidence = 0.01
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: ISO-8859-5 Russian confidence = 0.01
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: MacCyrillic Russian confidence = 0.0
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: IBM866 Russian confidence = 0.0
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: IBM855 Russian confidence = 0.01
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: ISO-8859-7 Greek confidence = 0.01
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: windows-1253 Greek confidence = 0.01
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: ISO-8859-5 Bulgairan confidence = 0.01
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: windows-1251 Bulgarian confidence = 0.01
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: TIS-620 Thai confidence = 0.01
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: ISO-8859-9 Turkish confidence = 0.5244225642888583
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.7525
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: EUC-JP not active
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: GB2312 not active
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: EUC-KR not active
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: CP949 not active
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: Big5 not active
+2020-04-13 18:38:07 [chardet.charsetprober] DEBUG: EUC-TW not active
+2020-04-13 18:38:07 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.us-proxy.org
+2020-04-13 18:38:07 [urllib3.connectionpool] DEBUG: https://www.us-proxy.org:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:38:07 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://74.209.191.66:3128
+2020-04-13 18:38:08 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://www.ncaa.com/rankings/lacrosse-men/d1/inside-lacrosse> with another proxy (failed 1 times, max retries: 5)
+2020-04-13 18:38:08 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://154.83.15.11:8118
+2020-04-13 18:38:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ncaa.com/rankings/lacrosse-men/d1/inside-lacrosse> (referer: None)
+2020-04-13 18:38:12 [scrapy.utils.log] INFO: Scrapy 1.7.3 started (bot: laxstatscraper)
+2020-04-13 18:38:12 [scrapy.utils.log] INFO: Versions: lxml 4.4.1.0, libxml2 2.9.5, cssselect 1.1.0, parsel 1.5.2, w3lib 1.21.0, Twisted 19.7.0, Python 3.6.4 (v3.6.4:d48eceb, Dec 19 2017, 06:54:40) [MSC v.1900 64 bit (AMD64)], pyOpenSSL 17.5.0 (OpenSSL 1.1.0g  2 Nov 2017), cryptography 2.1.4, Platform Windows-10-10.0.18362-SP0
+2020-04-13 18:38:12 [scrapy.crawler] INFO: Overridden settings: {'BOT_NAME': 'laxstatscraper', 'CONCURRENT_REQUESTS': 32, 'LOG_FILE': 'F:\\ReactProjects\\laxstats2\\laxstatscraper\\laxstatscraper\\logs\\dump\\2020-04-13-dump.log', 'NEWSPIDER_MODULE': 'laxstatscraper.spiders', 'SPIDER_MODULES': ['laxstatscraper.spiders'], 'USER_AGENT': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1'}
+2020-04-13 18:38:12 [scrapy.extensions.telnet] INFO: Telnet Password: ca0a86533016106e
+2020-04-13 18:38:12 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2020-04-13 18:38:13 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy_proxy_pool.middlewares.ProxyPoolMiddleware',
+ 'scrapy_proxy_pool.middlewares.BanDetectionMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2020-04-13 18:38:13 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2020-04-13 18:38:13 [scrapy.middleware] INFO: Enabled item pipelines:
+['laxstatscraper.pipelines.LaxstatscraperPipeline']
+2020-04-13 18:38:13 [scrapy.core.engine] INFO: Spider opened
+2020-04-13 18:38:13 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2020-04-13 18:38:13 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2020-04-13 18:38:13 [urllib3.connectionpool] DEBUG: Starting new HTTP connection (1): www.free-proxy-list.net
+2020-04-13 18:38:13 [urllib3.connectionpool] DEBUG: http://www.free-proxy-list.net:80 "GET / HTTP/1.1" 301 None
+2020-04-13 18:38:13 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.free-proxy-list.net
+2020-04-13 18:38:13 [urllib3.connectionpool] DEBUG: https://www.free-proxy-list.net:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:38:13 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): free-proxy-list.net
+2020-04-13 18:38:14 [urllib3.connectionpool] DEBUG: https://free-proxy-list.net:443 "GET /anonymous-proxy.html HTTP/1.1" 200 None
+2020-04-13 18:38:14 [urllib3.connectionpool] DEBUG: Starting new HTTP connection (1): www.proxy-daily.com
+2020-04-13 18:38:14 [urllib3.connectionpool] DEBUG: http://www.proxy-daily.com:80 "GET / HTTP/1.1" 301 None
+2020-04-13 18:38:14 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.proxy-daily.com
+2020-04-13 18:38:14 [urllib3.connectionpool] DEBUG: https://www.proxy-daily.com:443 "GET / HTTP/1.1" 301 None
+2020-04-13 18:38:14 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): proxy-daily.com
+2020-04-13 18:38:15 [urllib3.connectionpool] DEBUG: https://proxy-daily.com:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: EUC-JP Japanese prober hit error at byte 30652
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: GB2312 Chinese prober hit error at byte 30654
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: EUC-KR Korean prober hit error at byte 30652
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: CP949 Korean prober hit error at byte 30652
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: Big5 Chinese prober hit error at byte 30654
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: EUC-TW Taiwan prober hit error at byte 30652
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.7525
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: EUC-JP not active
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: GB2312 not active
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: EUC-KR not active
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: CP949 not active
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: Big5 not active
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: EUC-TW not active
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: windows-1251 Russian confidence = 0.01
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: KOI8-R Russian confidence = 0.01
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: ISO-8859-5 Russian confidence = 0.01
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: MacCyrillic Russian confidence = 0.0
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: IBM866 Russian confidence = 0.0
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: IBM855 Russian confidence = 0.01
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: ISO-8859-7 Greek confidence = 0.01
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: windows-1253 Greek confidence = 0.01
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: ISO-8859-5 Bulgairan confidence = 0.01
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: windows-1251 Bulgarian confidence = 0.01
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: TIS-620 Thai confidence = 0.01
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: ISO-8859-9 Turkish confidence = 0.5245706379543497
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.7525
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: EUC-JP not active
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: GB2312 not active
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: EUC-KR not active
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: CP949 not active
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: Big5 not active
+2020-04-13 18:38:15 [chardet.charsetprober] DEBUG: EUC-TW not active
+2020-04-13 18:38:15 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.us-proxy.org
+2020-04-13 18:38:15 [urllib3.connectionpool] DEBUG: https://www.us-proxy.org:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:38:15 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.sslproxies.org
+2020-04-13 18:38:16 [urllib3.connectionpool] DEBUG: https://www.sslproxies.org:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:38:16 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): free-proxy-list.net
+2020-04-13 18:38:16 [urllib3.connectionpool] DEBUG: https://free-proxy-list.net:443 "GET /uk-proxy.html HTTP/1.1" 200 None
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://199.167.184.124:80
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.29.132:8989
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.46.156:1080
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.14.210:1080
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://68.169.58.169:80
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://206.81.5.102:1080
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://72.249.51.52:80
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://72.249.51.52:80
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://178.128.64.215:8118
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://138.197.106.52:80
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://98.172.141.30:8080
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://52.206.255.142:80
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://72.169.66.137:87
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://199.167.184.124:80
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://167.99.102.11:1080
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://69.45.19.7:3128
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://181.214.9.22:3131
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://18.223.143.64:3128
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.46.156:1080
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://3.82.215.195:3128
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://199.167.184.124:80
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://209.212.33.99:8080
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://206.81.5.102:1080
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://199.188.89.254:8000
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://74.209.191.66:3128
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://3.82.215.195:3128
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://3.18.221.198:3128
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://154.83.15.11:8118
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://54.202.73.125:3128
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://34.219.85.228:3128
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://18.236.158.184:3128
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://104.175.103.208:80
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://stats.ncaa.org/teams/493861> with another proxy (failed 1 times, max retries: 5)
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://34.212.179.196:3128
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://stats.ncaa.org/teams/493854> with another proxy (failed 1 times, max retries: 5)
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://18.236.158.184:3128
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://stats.ncaa.org/teams/493857> with another proxy (failed 1 times, max retries: 5)
+2020-04-13 18:38:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://138.197.106.52:80
+2020-04-13 18:38:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://stats.ncaa.org/teams/493841> (referer: None)
+2020-04-13 18:38:17 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://136.37.159.248:3128
+2020-04-13 18:42:23 [scrapy.utils.log] INFO: Scrapy 1.7.3 started (bot: laxstatscraper)
+2020-04-13 18:42:23 [scrapy.utils.log] INFO: Versions: lxml 4.4.1.0, libxml2 2.9.5, cssselect 1.1.0, parsel 1.5.2, w3lib 1.21.0, Twisted 19.7.0, Python 3.6.4 (v3.6.4:d48eceb, Dec 19 2017, 06:54:40) [MSC v.1900 64 bit (AMD64)], pyOpenSSL 17.5.0 (OpenSSL 1.1.0g  2 Nov 2017), cryptography 2.1.4, Platform Windows-10-10.0.18362-SP0
+2020-04-13 18:42:23 [scrapy.crawler] INFO: Overridden settings: {'BOT_NAME': 'laxstatscraper', 'CONCURRENT_REQUESTS': 32, 'LOG_FILE': 'F:\\ReactProjects\\laxstats2\\laxstatscraper\\laxstatscraper\\logs\\dump\\2020-04-13-dump.log', 'NEWSPIDER_MODULE': 'laxstatscraper.spiders', 'SPIDER_MODULES': ['laxstatscraper.spiders'], 'USER_AGENT': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1'}
+2020-04-13 18:42:23 [scrapy.extensions.telnet] INFO: Telnet Password: 43e9a00c872ca046
+2020-04-13 18:42:23 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2020-04-13 18:42:23 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy_proxy_pool.middlewares.ProxyPoolMiddleware',
+ 'scrapy_proxy_pool.middlewares.BanDetectionMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2020-04-13 18:42:23 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2020-04-13 18:42:23 [scrapy.middleware] INFO: Enabled item pipelines:
+['laxstatscraper.pipelines.LaxstatscraperPipeline']
+2020-04-13 18:42:23 [scrapy.core.engine] INFO: Spider opened
+2020-04-13 18:42:23 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2020-04-13 18:42:23 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2020-04-13 18:42:23 [urllib3.connectionpool] DEBUG: Starting new HTTP connection (1): www.proxy-daily.com
+2020-04-13 18:42:23 [urllib3.connectionpool] DEBUG: http://www.proxy-daily.com:80 "GET / HTTP/1.1" 301 None
+2020-04-13 18:42:23 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.proxy-daily.com
+2020-04-13 18:42:24 [urllib3.connectionpool] DEBUG: https://www.proxy-daily.com:443 "GET / HTTP/1.1" 301 None
+2020-04-13 18:42:24 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): proxy-daily.com
+2020-04-13 18:42:25 [urllib3.connectionpool] DEBUG: https://proxy-daily.com:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: EUC-JP Japanese prober hit error at byte 30652
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: GB2312 Chinese prober hit error at byte 30654
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: EUC-KR Korean prober hit error at byte 30652
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: CP949 Korean prober hit error at byte 30652
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: Big5 Chinese prober hit error at byte 30654
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: EUC-TW Taiwan prober hit error at byte 30652
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.7525
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: EUC-JP not active
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: GB2312 not active
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: EUC-KR not active
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: CP949 not active
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: Big5 not active
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: EUC-TW not active
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: windows-1251 Russian confidence = 0.01
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: KOI8-R Russian confidence = 0.01
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: ISO-8859-5 Russian confidence = 0.01
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: MacCyrillic Russian confidence = 0.0
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: IBM866 Russian confidence = 0.0
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: IBM855 Russian confidence = 0.01
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: ISO-8859-7 Greek confidence = 0.01
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: windows-1253 Greek confidence = 0.01
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: ISO-8859-5 Bulgairan confidence = 0.01
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: windows-1251 Bulgarian confidence = 0.01
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: TIS-620 Thai confidence = 0.01
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: ISO-8859-9 Turkish confidence = 0.5244459404650098
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.7525
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: EUC-JP not active
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: GB2312 not active
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: EUC-KR not active
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: CP949 not active
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: Big5 not active
+2020-04-13 18:42:25 [chardet.charsetprober] DEBUG: EUC-TW not active
+2020-04-13 18:42:25 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): free-proxy-list.net
+2020-04-13 18:42:25 [urllib3.connectionpool] DEBUG: https://free-proxy-list.net:443 "GET /anonymous-proxy.html HTTP/1.1" 200 None
+2020-04-13 18:42:26 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): free-proxy-list.net
+2020-04-13 18:42:26 [urllib3.connectionpool] DEBUG: https://free-proxy-list.net:443 "GET /uk-proxy.html HTTP/1.1" 200 None
+2020-04-13 18:42:26 [urllib3.connectionpool] DEBUG: Starting new HTTP connection (1): www.free-proxy-list.net
+2020-04-13 18:42:26 [urllib3.connectionpool] DEBUG: http://www.free-proxy-list.net:80 "GET / HTTP/1.1" 301 None
+2020-04-13 18:42:26 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.free-proxy-list.net
+2020-04-13 18:42:26 [urllib3.connectionpool] DEBUG: https://www.free-proxy-list.net:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:42:26 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.us-proxy.org
+2020-04-13 18:42:26 [urllib3.connectionpool] DEBUG: https://www.us-proxy.org:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:42:27 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.sslproxies.org
+2020-04-13 18:42:27 [urllib3.connectionpool] DEBUG: https://www.sslproxies.org:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://72.249.51.52:80
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://199.188.93.183:8000
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.29.132:8989
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://72.15.119.99:80
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://34.220.115.48:3128
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://68.169.58.169:80
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://208.96.137.130:46348
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://70.169.129.246:48678
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://52.53.252.57:3128
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://209.212.33.99:8080
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://18.236.158.184:3128
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://72.15.119.99:80
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://34.219.85.228:3128
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://54.202.73.125:3128
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://34.212.179.196:3128
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://68.169.58.169:80
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://181.214.9.217:3131
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://72.15.119.99:80
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://209.212.33.99:8080
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://3.82.215.195:3128
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://68.169.58.169:80
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.46.156:1080
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://166.152.131.144:8080
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://192.200.200.96:3128
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://34.219.85.228:3128
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://18.236.158.184:3128
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://208.96.137.130:46348
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://104.175.103.208:80
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://98.172.141.30:8080
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.29.132:8989
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://192.200.200.96:3128
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://198.143.180.89:8888
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://stats.ncaa.org/teams/493831> with another proxy (failed 1 times, max retries: 5)
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://138.197.106.52:80
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://stats.ncaa.org/teams/493857> with another proxy (failed 1 times, max retries: 5)
+2020-04-13 18:42:27 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://181.214.9.150:3131
+2020-04-13 18:42:29 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://stats.ncaa.org/teams/493861> with another proxy (failed 1 times, max retries: 5)
+2020-04-13 18:42:29 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://192.200.200.113:3128
+2020-04-13 18:42:29 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://stats.ncaa.org/teams/493838> with another proxy (failed 1 times, max retries: 5)
+2020-04-13 18:42:29 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://162.194.214.80:3128
+2020-04-13 18:42:29 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://stats.ncaa.org/teams/493851> with another proxy (failed 1 times, max retries: 5)
+2020-04-13 18:42:29 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://206.81.5.102:1080
+2020-04-13 18:42:29 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://stats.ncaa.org/teams/493853> with another proxy (failed 1 times, max retries: 5)
+2020-04-13 18:42:29 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://138.197.106.52:80
+2020-04-13 18:42:29 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://stats.ncaa.org/teams/493860> with another proxy (failed 1 times, max retries: 5)
+2020-04-13 18:42:29 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://18.236.158.184:3128
+2020-04-13 18:42:30 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://stats.ncaa.org/teams/493837> (referer: None)
+2020-04-13 18:42:30 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.29.132:8989
+2020-04-13 18:48:55 [scrapy.utils.log] INFO: Scrapy 1.7.3 started (bot: laxstatscraper)
+2020-04-13 18:48:55 [scrapy.utils.log] INFO: Versions: lxml 4.4.1.0, libxml2 2.9.5, cssselect 1.1.0, parsel 1.5.2, w3lib 1.21.0, Twisted 19.7.0, Python 3.6.4 (v3.6.4:d48eceb, Dec 19 2017, 06:54:40) [MSC v.1900 64 bit (AMD64)], pyOpenSSL 17.5.0 (OpenSSL 1.1.0g  2 Nov 2017), cryptography 2.1.4, Platform Windows-10-10.0.18362-SP0
+2020-04-13 18:48:55 [scrapy.crawler] INFO: Overridden settings: {'BOT_NAME': 'laxstatscraper', 'CONCURRENT_REQUESTS': 32, 'LOG_FILE': 'F:\\ReactProjects\\laxstats2\\laxstatscraper\\laxstatscraper\\logs\\dump\\2020-04-13-dump.log', 'NEWSPIDER_MODULE': 'laxstatscraper.spiders', 'SPIDER_MODULES': ['laxstatscraper.spiders'], 'USER_AGENT': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1'}
+2020-04-13 18:48:55 [scrapy.extensions.telnet] INFO: Telnet Password: 5f51db86bf4be89c
+2020-04-13 18:48:55 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2020-04-13 18:48:56 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy_proxy_pool.middlewares.ProxyPoolMiddleware',
+ 'scrapy_proxy_pool.middlewares.BanDetectionMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2020-04-13 18:48:56 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2020-04-13 18:48:56 [scrapy.middleware] INFO: Enabled item pipelines:
+['laxstatscraper.pipelines.LaxstatscraperPipeline']
+2020-04-13 18:48:56 [scrapy.core.engine] INFO: Spider opened
+2020-04-13 18:48:56 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2020-04-13 18:48:56 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2020-04-13 18:48:56 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): free-proxy-list.net
+2020-04-13 18:48:56 [urllib3.connectionpool] DEBUG: https://free-proxy-list.net:443 "GET /anonymous-proxy.html HTTP/1.1" 200 None
+2020-04-13 18:48:56 [urllib3.connectionpool] DEBUG: Starting new HTTP connection (1): www.proxy-daily.com
+2020-04-13 18:48:56 [urllib3.connectionpool] DEBUG: http://www.proxy-daily.com:80 "GET / HTTP/1.1" 301 None
+2020-04-13 18:48:56 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.proxy-daily.com
+2020-04-13 18:48:57 [urllib3.connectionpool] DEBUG: https://www.proxy-daily.com:443 "GET / HTTP/1.1" 301 None
+2020-04-13 18:48:57 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): proxy-daily.com
+2020-04-13 18:48:58 [urllib3.connectionpool] DEBUG: https://proxy-daily.com:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: EUC-JP Japanese prober hit error at byte 30652
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: GB2312 Chinese prober hit error at byte 30654
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: EUC-KR Korean prober hit error at byte 30652
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: CP949 Korean prober hit error at byte 30652
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: Big5 Chinese prober hit error at byte 30654
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: EUC-TW Taiwan prober hit error at byte 30652
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.7525
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: EUC-JP not active
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: GB2312 not active
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: EUC-KR not active
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: CP949 not active
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: Big5 not active
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: EUC-TW not active
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: windows-1251 Russian confidence = 0.01
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: KOI8-R Russian confidence = 0.01
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: ISO-8859-5 Russian confidence = 0.01
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: MacCyrillic Russian confidence = 0.0
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: IBM866 Russian confidence = 0.0
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: IBM855 Russian confidence = 0.01
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: ISO-8859-7 Greek confidence = 0.01
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: windows-1253 Greek confidence = 0.01
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: ISO-8859-5 Bulgairan confidence = 0.01
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: windows-1251 Bulgarian confidence = 0.01
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: TIS-620 Thai confidence = 0.01
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: ISO-8859-9 Turkish confidence = 0.5250254010528794
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.7525
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: EUC-JP not active
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: GB2312 not active
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: EUC-KR not active
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: CP949 not active
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: Big5 not active
+2020-04-13 18:48:58 [chardet.charsetprober] DEBUG: EUC-TW not active
+2020-04-13 18:48:58 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.sslproxies.org
+2020-04-13 18:48:58 [urllib3.connectionpool] DEBUG: https://www.sslproxies.org:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:48:59 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): free-proxy-list.net
+2020-04-13 18:48:59 [urllib3.connectionpool] DEBUG: https://free-proxy-list.net:443 "GET /uk-proxy.html HTTP/1.1" 200 None
+2020-04-13 18:48:59 [urllib3.connectionpool] DEBUG: Starting new HTTP connection (1): www.free-proxy-list.net
+2020-04-13 18:48:59 [urllib3.connectionpool] DEBUG: http://www.free-proxy-list.net:80 "GET / HTTP/1.1" 301 None
+2020-04-13 18:48:59 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.free-proxy-list.net
+2020-04-13 18:48:59 [urllib3.connectionpool] DEBUG: https://www.free-proxy-list.net:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:48:59 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.us-proxy.org
+2020-04-13 18:48:59 [urllib3.connectionpool] DEBUG: https://www.us-proxy.org:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:48:59 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://181.214.9.217:3131
+2020-04-13 18:48:59 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://68.169.58.169:80
+2020-04-13 18:48:59 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://18.236.158.184:3128
+2020-04-13 18:48:59 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://34.220.127.103:3128
+2020-04-13 18:48:59 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://45.77.222.189:3128
+2020-04-13 18:48:59 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://159.89.88.225:3128
+2020-04-13 18:48:59 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://136.37.159.248:3128
+2020-04-13 18:48:59 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://166.152.131.144:8080
+2020-04-13 18:48:59 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.14.210:1080
+2020-04-13 18:48:59 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.46.156:1080
+2020-04-13 18:48:59 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://192.200.200.96:3128
+2020-04-13 18:48:59 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.14.210:1080
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.46.156:1080
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://162.194.214.80:3128
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://159.89.88.225:3128
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://136.37.159.248:3128
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://18.236.158.184:3128
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://34.220.115.48:3128
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://162.194.214.80:3128
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://208.96.137.130:46348
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://34.220.127.103:3128
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://198.143.178.30:3128
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://34.220.127.103:3128
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://192.200.200.96:3128
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://72.249.51.52:80
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://192.200.200.96:3128
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://206.81.5.102:1080
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.14.230:1080
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://72.249.51.52:80
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://162.144.220.192:80
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://192.200.200.75:3128
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://198.98.51.240:8080
+2020-04-13 18:49:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://stats.ncaa.org/team/68/stats/15203> (referer: None)
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://40.131.87.38:8080
+2020-04-13 18:49:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://stats.ncaa.org/team/62/stats/15203> (referer: None)
+2020-04-13 18:49:00 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.46.156:1080
+2020-04-13 18:54:26 [scrapy.utils.log] INFO: Scrapy 1.7.3 started (bot: laxstatscraper)
+2020-04-13 18:54:26 [scrapy.utils.log] INFO: Versions: lxml 4.4.1.0, libxml2 2.9.5, cssselect 1.1.0, parsel 1.5.2, w3lib 1.21.0, Twisted 19.7.0, Python 3.6.4 (v3.6.4:d48eceb, Dec 19 2017, 06:54:40) [MSC v.1900 64 bit (AMD64)], pyOpenSSL 17.5.0 (OpenSSL 1.1.0g  2 Nov 2017), cryptography 2.1.4, Platform Windows-10-10.0.18362-SP0
+2020-04-13 18:54:26 [scrapy.crawler] INFO: Overridden settings: {'BOT_NAME': 'laxstatscraper', 'CONCURRENT_REQUESTS': 32, 'LOG_FILE': 'F:\\ReactProjects\\laxstats2\\laxstatscraper\\laxstatscraper\\logs\\dump\\2020-04-13-dump.log', 'NEWSPIDER_MODULE': 'laxstatscraper.spiders', 'SPIDER_MODULES': ['laxstatscraper.spiders'], 'USER_AGENT': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1'}
+2020-04-13 18:54:26 [scrapy.extensions.telnet] INFO: Telnet Password: 56fd0c9c8983c8d7
+2020-04-13 18:54:26 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2020-04-13 18:54:26 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy_proxy_pool.middlewares.ProxyPoolMiddleware',
+ 'scrapy_proxy_pool.middlewares.BanDetectionMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2020-04-13 18:54:26 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2020-04-13 18:54:26 [scrapy.middleware] INFO: Enabled item pipelines:
+['laxstatscraper.pipelines.LaxstatscraperPipeline']
+2020-04-13 18:54:26 [scrapy.core.engine] INFO: Spider opened
+2020-04-13 18:54:26 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2020-04-13 18:54:26 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2020-04-13 18:54:26 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): free-proxy-list.net
+2020-04-13 18:54:26 [urllib3.connectionpool] DEBUG: https://free-proxy-list.net:443 "GET /uk-proxy.html HTTP/1.1" 200 None
+2020-04-13 18:54:27 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.sslproxies.org
+2020-04-13 18:54:27 [urllib3.connectionpool] DEBUG: https://www.sslproxies.org:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:54:27 [urllib3.connectionpool] DEBUG: Starting new HTTP connection (1): www.free-proxy-list.net
+2020-04-13 18:54:27 [urllib3.connectionpool] DEBUG: http://www.free-proxy-list.net:80 "GET / HTTP/1.1" 301 None
+2020-04-13 18:54:27 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.free-proxy-list.net
+2020-04-13 18:54:27 [urllib3.connectionpool] DEBUG: https://www.free-proxy-list.net:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:54:27 [urllib3.connectionpool] DEBUG: Starting new HTTP connection (1): www.proxy-daily.com
+2020-04-13 18:54:27 [urllib3.connectionpool] DEBUG: http://www.proxy-daily.com:80 "GET / HTTP/1.1" 301 None
+2020-04-13 18:54:27 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.proxy-daily.com
+2020-04-13 18:54:28 [urllib3.connectionpool] DEBUG: https://www.proxy-daily.com:443 "GET / HTTP/1.1" 301 None
+2020-04-13 18:54:28 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): proxy-daily.com
+2020-04-13 18:54:29 [urllib3.connectionpool] DEBUG: https://proxy-daily.com:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: EUC-JP Japanese prober hit error at byte 30652
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: GB2312 Chinese prober hit error at byte 30654
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: EUC-KR Korean prober hit error at byte 30652
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: CP949 Korean prober hit error at byte 30652
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: Big5 Chinese prober hit error at byte 30654
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: EUC-TW Taiwan prober hit error at byte 30652
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.7525
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: EUC-JP not active
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: GB2312 not active
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: EUC-KR not active
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: CP949 not active
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: Big5 not active
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: EUC-TW not active
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: windows-1251 Russian confidence = 0.01
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: KOI8-R Russian confidence = 0.01
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: ISO-8859-5 Russian confidence = 0.01
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: MacCyrillic Russian confidence = 0.0
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: IBM866 Russian confidence = 0.0
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: IBM855 Russian confidence = 0.01
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: ISO-8859-7 Greek confidence = 0.01
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: windows-1253 Greek confidence = 0.01
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: ISO-8859-5 Bulgairan confidence = 0.01
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: windows-1251 Bulgarian confidence = 0.01
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: TIS-620 Thai confidence = 0.01
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: ISO-8859-9 Turkish confidence = 0.5235064115675825
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.7525
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: EUC-JP not active
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: GB2312 not active
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: EUC-KR not active
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: CP949 not active
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: Big5 not active
+2020-04-13 18:54:29 [chardet.charsetprober] DEBUG: EUC-TW not active
+2020-04-13 18:54:29 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): free-proxy-list.net
+2020-04-13 18:54:29 [urllib3.connectionpool] DEBUG: https://free-proxy-list.net:443 "GET /anonymous-proxy.html HTTP/1.1" 200 None
+2020-04-13 18:54:29 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.us-proxy.org
+2020-04-13 18:54:30 [urllib3.connectionpool] DEBUG: https://www.us-proxy.org:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:54:30 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://181.214.9.217:3131
+2020-04-13 18:55:26 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2020-04-13 18:56:26 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2020-04-13 18:57:26 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2020-04-13 18:57:30 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://www.ncaa.com/rankings/lacrosse-men/d1/inside-lacrosse> with another proxy (failed 1 times, max retries: 5)
+2020-04-13 18:57:30 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.14.210:1080
+2020-04-13 18:57:32 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://www.ncaa.com/rankings/lacrosse-men/d1/inside-lacrosse> with another proxy (failed 2 times, max retries: 5)
+2020-04-13 18:57:32 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://68.169.58.169:80
+2020-04-13 18:57:53 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://www.ncaa.com/rankings/lacrosse-men/d1/inside-lacrosse> with another proxy (failed 3 times, max retries: 5)
+2020-04-13 18:57:53 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://162.144.220.192:80
+2020-04-13 18:58:26 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://www.ncaa.com/rankings/lacrosse-men/d1/inside-lacrosse> with another proxy (failed 4 times, max retries: 5)
+2020-04-13 18:58:26 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://162.194.214.80:3128
+2020-04-13 18:58:26 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2020-04-13 18:58:47 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://www.ncaa.com/rankings/lacrosse-men/d1/inside-lacrosse> with another proxy (failed 5 times, max retries: 5)
+2020-04-13 18:58:47 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://34.212.179.196:3128
+2020-04-13 18:59:08 [scrapy_proxy_pool.middlewares] DEBUG: Gave up retrying <GET https://www.ncaa.com/rankings/lacrosse-men/d1/inside-lacrosse> (failed 6 times with different proxies)
+2020-04-13 18:59:08 [scrapy_proxy_pool.middlewares] DEBUG: Try with host ip
+2020-04-13 18:59:08 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.ncaa.com/rankings/lacrosse-men/d1/inside-lacrosse> (referer: None)
+2020-04-13 18:59:12 [scrapy.utils.log] INFO: Scrapy 1.7.3 started (bot: laxstatscraper)
+2020-04-13 18:59:12 [scrapy.utils.log] INFO: Versions: lxml 4.4.1.0, libxml2 2.9.5, cssselect 1.1.0, parsel 1.5.2, w3lib 1.21.0, Twisted 19.7.0, Python 3.6.4 (v3.6.4:d48eceb, Dec 19 2017, 06:54:40) [MSC v.1900 64 bit (AMD64)], pyOpenSSL 17.5.0 (OpenSSL 1.1.0g  2 Nov 2017), cryptography 2.1.4, Platform Windows-10-10.0.18362-SP0
+2020-04-13 18:59:12 [scrapy.crawler] INFO: Overridden settings: {'BOT_NAME': 'laxstatscraper', 'CONCURRENT_REQUESTS': 32, 'LOG_FILE': 'F:\\ReactProjects\\laxstats2\\laxstatscraper\\laxstatscraper\\logs\\dump\\2020-04-13-dump.log', 'NEWSPIDER_MODULE': 'laxstatscraper.spiders', 'SPIDER_MODULES': ['laxstatscraper.spiders'], 'USER_AGENT': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1'}
+2020-04-13 18:59:12 [scrapy.extensions.telnet] INFO: Telnet Password: e04776db558d913e
+2020-04-13 18:59:12 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2020-04-13 18:59:13 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy_proxy_pool.middlewares.ProxyPoolMiddleware',
+ 'scrapy_proxy_pool.middlewares.BanDetectionMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2020-04-13 18:59:13 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2020-04-13 18:59:13 [scrapy.middleware] INFO: Enabled item pipelines:
+['laxstatscraper.pipelines.LaxstatscraperPipeline']
+2020-04-13 18:59:13 [scrapy.core.engine] INFO: Spider opened
+2020-04-13 18:59:13 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2020-04-13 18:59:13 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2020-04-13 18:59:13 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): free-proxy-list.net
+2020-04-13 18:59:13 [urllib3.connectionpool] DEBUG: https://free-proxy-list.net:443 "GET /uk-proxy.html HTTP/1.1" 200 None
+2020-04-13 18:59:13 [urllib3.connectionpool] DEBUG: Starting new HTTP connection (1): www.free-proxy-list.net
+2020-04-13 18:59:13 [urllib3.connectionpool] DEBUG: http://www.free-proxy-list.net:80 "GET / HTTP/1.1" 301 None
+2020-04-13 18:59:13 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.free-proxy-list.net
+2020-04-13 18:59:13 [urllib3.connectionpool] DEBUG: https://www.free-proxy-list.net:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:59:13 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.sslproxies.org
+2020-04-13 18:59:14 [urllib3.connectionpool] DEBUG: https://www.sslproxies.org:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:59:14 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): free-proxy-list.net
+2020-04-13 18:59:14 [urllib3.connectionpool] DEBUG: https://free-proxy-list.net:443 "GET /anonymous-proxy.html HTTP/1.1" 200 None
+2020-04-13 18:59:14 [urllib3.connectionpool] DEBUG: Starting new HTTP connection (1): www.proxy-daily.com
+2020-04-13 18:59:14 [urllib3.connectionpool] DEBUG: http://www.proxy-daily.com:80 "GET / HTTP/1.1" 301 None
+2020-04-13 18:59:14 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.proxy-daily.com
+2020-04-13 18:59:15 [urllib3.connectionpool] DEBUG: https://www.proxy-daily.com:443 "GET / HTTP/1.1" 301 None
+2020-04-13 18:59:15 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): proxy-daily.com
+2020-04-13 18:59:15 [urllib3.connectionpool] DEBUG: https://proxy-daily.com:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:59:15 [chardet.charsetprober] DEBUG: EUC-JP Japanese prober hit error at byte 30652
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: GB2312 Chinese prober hit error at byte 30654
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: EUC-KR Korean prober hit error at byte 30652
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: CP949 Korean prober hit error at byte 30652
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: Big5 Chinese prober hit error at byte 30654
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: EUC-TW Taiwan prober hit error at byte 30652
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.7525
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: EUC-JP not active
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: GB2312 not active
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: EUC-KR not active
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: CP949 not active
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: Big5 not active
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: EUC-TW not active
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: windows-1251 Russian confidence = 0.01
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: KOI8-R Russian confidence = 0.01
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: ISO-8859-5 Russian confidence = 0.01
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: MacCyrillic Russian confidence = 0.0
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: IBM866 Russian confidence = 0.0
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: IBM855 Russian confidence = 0.01
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: ISO-8859-7 Greek confidence = 0.01
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: windows-1253 Greek confidence = 0.01
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: ISO-8859-5 Bulgairan confidence = 0.01
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: windows-1251 Bulgarian confidence = 0.01
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: TIS-620 Thai confidence = 0.01
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: ISO-8859-9 Turkish confidence = 0.5244256600669991
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.7525
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: EUC-JP not active
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: GB2312 not active
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: EUC-KR not active
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: CP949 not active
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: Big5 not active
+2020-04-13 18:59:16 [chardet.charsetprober] DEBUG: EUC-TW not active
+2020-04-13 18:59:16 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.us-proxy.org
+2020-04-13 18:59:16 [urllib3.connectionpool] DEBUG: https://www.us-proxy.org:443 "GET / HTTP/1.1" 200 None
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://72.169.66.137:87
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://93.190.245.20:80
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.46.156:1080
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://199.188.89.254:8000
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://181.214.9.22:3131
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://74.92.2.70:80
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://192.200.200.96:3128
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://34.219.41.92:3128
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://45.77.222.189:3128
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://104.175.103.208:80
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://68.169.58.169:80
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://199.188.93.183:8000
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://45.77.222.189:3128
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://198.143.180.89:8888
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://166.152.131.144:8080
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://40.131.87.38:8080
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://198.143.178.30:3128
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://181.214.9.150:3131
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://184.183.3.211:8080
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://72.15.119.99:80
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.46.156:1080
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://199.167.184.124:80
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.46.156:1080
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://40.131.87.38:8080
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://64.225.14.210:1080
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://68.169.58.169:80
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://69.45.19.7:3128
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://208.96.137.130:46348
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://34.220.115.48:3128
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://72.169.66.137:87
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://162.194.214.80:3128
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://3.18.221.198:3128
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://stats.ncaa.org/teams/493839> with another proxy (failed 1 times, max retries: 5)
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://192.200.200.113:3128
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://stats.ncaa.org/teams/493841> with another proxy (failed 1 times, max retries: 5)
+2020-04-13 18:59:16 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://167.172.16.155:1080
+2020-04-13 18:59:17 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://stats.ncaa.org/teams/493831> with another proxy (failed 1 times, max retries: 5)
+2020-04-13 18:59:17 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://198.204.253.114:3128
+2020-04-13 18:59:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://stats.ncaa.org/teams/493842> (referer: None)
+2020-04-13 18:59:17 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://54.202.73.125:3128
+2020-04-13 18:59:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://stats.ncaa.org/teams/493838> (referer: None)
+2020-04-13 18:59:17 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://3.82.215.195:3128

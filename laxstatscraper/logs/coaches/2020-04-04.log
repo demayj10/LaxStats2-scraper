@@ -1,0 +1,583 @@
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Andy German has been added to the database for Team Cleveland St. Vikings
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493840>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493833> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://35.244.32.128:3128
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Andrew Whitley has been added to the database for Team Bellarmine Knights
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493833>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493859> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://167.172.27.220:8118
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493849> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.113.213.134:3128
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Dave Pietramala has been added to the database for Team Johns Hopkins Blue Jays
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493859>
+None
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Andrew Baxter has been added to the database for Team Fairfield Stags
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493849>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493832> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://206.189.208.233:80
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493835> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://66.119.63.101:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493852> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://167.172.27.220:8118
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493860> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://104.245.69.26:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493848> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://74.221.79.73:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493852> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://104.207.147.208:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493847> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://206.223.238.11:22871
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493865> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://206.223.238.11:22871
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Brian Voelker has been added to the database for Team Drexel Dragons
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493847>
+None
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Keegan Wilkinson has been added to the database for Team Marist Red Foxes
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493865>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493841> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.113.190.86:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493851> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://35.244.38.170:8080
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493841> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://209.141.62.23:8080
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Matt Karweck has been added to the database for Team Colgate Raiders
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493841>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493852> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://66.119.53.131:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493863> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.87.96.183:80
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493868> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.10.6:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493868> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://64.91.248.243:3128
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach John Tillman has been added to the database for Team Maryland Terrapins, Terps
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493868>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493857> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://142.93.15.156:8080
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Peter Burke has been added to the database for Team Holy Cross Crusaders
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493857>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493842> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://166.139.171.168:80
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493870> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://181.214.9.39:3129
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493848> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://159.89.50.71:3128
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach John Danowski has been added to the database for Team Duke Blue Devils
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493848>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493839> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://206.189.208.233:80
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Mark  has been added to the database for Team Canisius Golden Griffins
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493839>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493844> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://178.128.5.174:8118
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Ben DeLuca has been added to the database for Team Delaware Blue Hens
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493844>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493830> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://174.138.116.12:80
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493831> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://24.124.49.165:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493834> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://104.197.197.62:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493836> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://161.199.130.1:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493837> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://24.124.49.165:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493843> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://64.227.30.107:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493845> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://50.201.51.216:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493850> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://24.124.49.165:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493854> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://138.197.211.71:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493856> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493855> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.32.6:3128
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://206.189.208.233:80
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493861> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://108.61.220.212:8118
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493846> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://166.139.171.168:80
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493853> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://18.212.178.10:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493861> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://66.91.54.191:8080
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493831> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.87.96.183:80
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Brian Holman has been added to the database for Team Utah Utes
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493831>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493854> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://35.196.57.174:3128
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Gerry Byrne has been added to the database for Team Harvard Crimson
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493854>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493837> (referer: None)
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493850> (referer: None)
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493855> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://18.212.178.10:8080
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://52.41.181.3:80
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://181.214.9.39:3129
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Mike Pressler has been added to the database for Team Bryant Bulldogs
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493837>
+None
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Richie Meade has been added to the database for Team Furman Paladins
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493850>
+None
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Greg Raymond has been added to the database for Team Hobart Statesmen
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493855>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493834> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://159.89.50.71:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493832> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://18.212.178.10:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493835> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://104.245.69.26:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493860> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://64.91.248.243:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493866> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.87.96.183:80
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493867> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://35.244.38.170:8080
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493875> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://3.89.130.33:3128
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Travis Johnson has been added to the database for Team NJIT Highlanders
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493875>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493852> with another proxy (failed 4 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://3.89.130.33:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493869> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.32.6:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493869> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://35.244.38.170:8080
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Greg Cannella has been added to the database for Team Massachusetts Minutemen
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493869>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493862> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://3.89.130.33:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493842> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://64.225.24.13:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493870> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://72.252.4.114:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493842> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://166.249.185.135:37369
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493871> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.113.190.86:3128
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Kevin Conry has been added to the database for Team Michigan Wolverines
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493871>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493881> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://184.179.66.118:3128
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Chris Gabrielli has been added to the database for Team Providence Friars
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493881>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493872> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.113.213.134:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493873> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://18.218.171.52:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493872> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://3.94.59.144:3128
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Brian Fisher has been added to the database for Team Monmouth Hawks
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493872>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493873> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://72.252.4.149:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493830> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.113.190.86:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493836> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://138.197.211.71:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493843> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.32.6:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493845> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://173.46.67.172:58517
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493846> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://104.236.48.178:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493853> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://52.41.181.3:80
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493836> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://35.244.38.170:8080
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493830> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://72.252.4.25:8080
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Mike Daly has been added to the database for Team Brown Bears
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493836>
+None
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Randy Mearns has been added to the database for Team St. Bonaventure Bonnies
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493830>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493843> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://72.252.4.25:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493876> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://3.89.130.33:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493878> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://3.94.59.144:3128
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Brendan Callahan has been added to the database for Team Dartmouth Big Green
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493843>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493832> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://35.196.57.174:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493835> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://54.173.62.231:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493860> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://24.124.49.165:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493846> with another proxy (failed 4 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://184.179.66.118:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493832> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://18.234.62.252:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493860> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://159.89.50.71:3128
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Scott Marr has been added to the database for Team Albany (NY) Great Danes
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493832>
+None
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Patrick Myers has been added to the database for Team Lafayette Leopards
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493860>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493879> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.113.213.134:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493879> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://72.252.4.114:8080
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Mike Murphy has been added to the database for Team Penn Quakers
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493879>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493861> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://35.196.57.174:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493861> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://73.170.237.80:3128
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Kevin Cassese has been added to the database for Team Lehigh Mountain Hawks
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493861>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493880> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://73.170.237.80:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493870> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.32.6:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493870> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://72.252.4.149:8080
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Kyle Hannan has been added to the database for Team Mercer Bears
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493870>
+None
+INFO:scrapy.extensions.logstats:Crawled 30 pages (at 30 pages/min), scraped 30 items (at 30 items/min)
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493883> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://52.41.181.3:80
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493873> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.48.150:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493873> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://73.170.237.80:3128
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Tom Gravante has been added to the database for Team Mount St. Mary's Mountaineers
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493873>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493845> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.113.213.134:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493884> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://35.199.71.150:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493885> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.48.150:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493845> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.32.6:3128
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Bill Tierney has been added to the database for Team Denver Pioneers
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493845>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493886> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.48.150:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493876> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://159.89.50.71:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493888> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://166.249.185.135:37369
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Taylor Wray has been added to the database for Team Saint Joseph's Hawks
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493888>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493885> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://147.135.124.6:8080
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Brian Brecht has been added to the database for Team Rutgers Scarlet Knights
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493885>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493893> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://206.223.238.252:22871
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Bill Wilson has been added to the database for Team Air Force Falcons
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493893>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493886> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.32.6:3128
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Jonathan Basti has been added to the database for Team Sacred Heart Pioneers
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493886>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493887> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://166.249.185.135:37369
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493897> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://159.89.50.71:3128
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Michael Corrado has been added to the database for Team Villanova Wildcats
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493897>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493889> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://54.173.62.231:8080
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493884> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.71.3.60:3128
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Andrew McMinn has been added to the database for Team Robert Morris Colonials
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493884>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493899> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.113.190.86:3128
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Lars Tiffany has been added to the database for Team Virginia Cavaliers
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493899>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493890> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://166.249.185.135:37369
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493900> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://147.135.124.6:8080
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Bill McCutcheon has been added to the database for Team Wagner Seahawks
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493900>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493894> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://198.229.231.13:8080
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Joe Alberici has been added to the database for Team Army West Point Black Knights
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493894>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493880> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://52.41.181.3:80
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493892> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.87.96.183:80
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Shawn Nadelen has been added to the database for Team Towson Tigers
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493892>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493891> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://147.135.124.6:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493877> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.71.3.60:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493898> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://54.173.62.231:8080
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Jon Birsner has been added to the database for Team VMI Keydets
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493898>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493877> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Nick Myers has been added to the database for Team Ohio St. Buckeyes
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493877>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493876> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Kevin Corrigan has been added to the database for Team Notre Dame Fighting Irish
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493876>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493895> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.32.6:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493896> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://159.89.50.71:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493895> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Joe Amplo has been added to the database for Team Navy Midshipmen
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493895>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493887> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.71.3.60:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493887> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Jason Miller has been added to the database for Team St. John's (NY) Red Storm
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493887>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493882> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Mason Poli has been added to the database for Team Quinnipiac Bobcats
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493882>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493890> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://198.229.231.13:8080
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493896> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Chris Feifs has been added to the database for Team Vermont Catamounts
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493896>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493901> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.48.150:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493901> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Andy Shay has been added to the database for Team Yale Elis, Bulldogs
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493901>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493902> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://184.179.66.118:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493902> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Jon Torpey has been added to the database for Team High Point Panthers
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493902>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493920> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.113.213.134:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493920> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Michael Morgan has been added to the database for Team Merrimack Warriors
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493920>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493853> with another proxy (failed 4 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://54.173.62.231:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493891> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.32.6:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493891> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach John Desko has been added to the database for Team Syracuse Orange
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493891>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493883> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Dan Chemotti has been added to the database for Team Richmond Spiders
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493883>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493842> with another proxy (failed 4 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://166.152.131.144:8080
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493846> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Chris Kolon has been added to the database for Team Detroit Mercy Titans
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493846>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493890> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://184.179.66.118:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493880> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.113.190.86:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493890> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Anthony Gilardi has been added to the database for Team Stony Brook Seawolves
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493890>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493880> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Matt Madalon has been added to the database for Team Princeton Tigers
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493880>
+None
+INFO:scrapy.extensions.logstats:Crawled 57 pages (at 27 pages/min), scraped 57 items (at 27 items/min)
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493853> with another proxy (failed 5 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://24.124.49.165:8080
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493853> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Ryan Martin has been added to the database for Team Hartford Hawks
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493853>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493842> with another proxy (failed 5 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://159.89.50.71:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493842> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Peter Milliman has been added to the database for Team Cornell Big Red
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493842>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493838> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://138.197.211.71:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493838> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Frank Fedorjaka has been added to the database for Team Bucknell Bison
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493838>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493856> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.113.190.86:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493856> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Seth Tierney has been added to the database for Team Hofstra Pride
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493856>
+None
+INFO:scrapy.extensions.logstats:Crawled 61 pages (at 4 pages/min), scraped 61 items (at 4 items/min)
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493858> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.10.6:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493858> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach John Galloway has been added to the database for Team Jacksonville Dolphins
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493858>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493864> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://35.196.57.174:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493864> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Drew Kelleher has been added to the database for Team Manhattan Jaspers
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493864>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493851> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.113.190.86:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493851> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Kevin Warne has been added to the database for Team Georgetown Hoyas
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493851>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493863> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.48.150:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493863> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Charley Toomey has been added to the database for Team Loyola Maryland Greyhounds
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493863>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493874> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.113.190.86:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493874> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Joe Breschi has been added to the database for Team North Carolina Tar Heels
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493874>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493834> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.48.150:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493866> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://35.199.71.150:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493867> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.32.6:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493834> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Kevin McKeown has been added to the database for Team Binghamton Bearcats
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493834>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493867> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Ryan Moran has been added to the database for Team UMBC Retrievers
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493867>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493866> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Andrew Stimmel has been added to the database for Team Marquette Golden Eagles
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493866>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493852> with another proxy (failed 5 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.10.6:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493852> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Rashad Devoe has been added to the database for Team Hampton Pirates
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493852>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493862> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.113.190.86:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493862> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Ed Stephenson has been added to the database for Team UMass Lowell River Hawks
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493862>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493878> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://138.197.211.71:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493835> with another proxy (failed 4 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://96.96.48.150:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493878> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Jeff Tambroni has been added to the database for Team Penn St. Nittany Lions
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493878>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493835> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Ryan Polley has been added to the database for Team Boston U. Terriers
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493835>
+None
+INFO:scrapy.extensions.logstats:Crawled 73 pages (at 12 pages/min), scraped 73 items (at 12 items/min)
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493889> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://184.179.66.118:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493889> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Liam Gleason has been added to the database for Team Siena Saints
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493889>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/497536> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.71.3.60:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/497536> (referer: None)
+INFO:F:\ReactProjects\laxstats2-backend\scraper\laxscraper\laxscraper\logs\coaches\2020-04-04.log:Coach Eric Wolf has been added to the database for Team LIU Sharks
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/497536>
+None
+INFO:scrapy.core.engine:Closing spider (finished)
+INFO:scrapy.statscollectors:Dumping Scrapy stats:
+{'bans/error/scrapy.core.downloader.handlers.http11.TunnelError': 7,
+ 'bans/error/twisted.internet.error.ConnectionRefusedError': 15,
+ 'bans/error/twisted.internet.error.TCPTimedOutError': 62,
+ 'bans/error/twisted.internet.error.TimeoutError': 14,
+ 'bans/error/twisted.web._newclient.ResponseNeverReceived': 5,
+ 'bans/status/403': 1,
+ 'downloader/exception_count': 103,
+ 'downloader/exception_type_count/scrapy.core.downloader.handlers.http11.TunnelError': 7,
+ 'downloader/exception_type_count/twisted.internet.error.ConnectionRefusedError': 15,
+ 'downloader/exception_type_count/twisted.internet.error.TCPTimedOutError': 62,
+ 'downloader/exception_type_count/twisted.internet.error.TimeoutError': 14,
+ 'downloader/exception_type_count/twisted.web._newclient.ResponseNeverReceived': 5,
+ 'downloader/request_bytes': 88799,
+ 'downloader/request_count': 179,
+ 'downloader/request_method_count/GET': 179,
+ 'downloader/response_bytes': 484986,
+ 'downloader/response_count': 76,
+ 'downloader/response_status_count/200': 75,
+ 'downloader/response_status_count/403': 1,
+ 'elapsed_time_seconds': 262.420292,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 4, 4, 22, 52, 5, 681380),
+ 'item_scraped_count': 75,
+ 'log_count/DEBUG': 93,
+ 'log_count/INFO': 9,
+ 'response_received_count': 75,
+ 'scheduler/dequeued': 179,
+ 'scheduler/dequeued/memory': 179,
+ 'scheduler/enqueued': 179,
+ 'scheduler/enqueued/memory': 179,
+ 'start_time': datetime.datetime(2020, 4, 4, 22, 47, 43, 261088)}
+INFO:scrapy.core.engine:Spider closed (finished)

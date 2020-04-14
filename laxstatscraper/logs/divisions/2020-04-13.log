@@ -1,0 +1,27 @@
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\divisions\2020-04-13.log:Division 'Division I' has been updated
+DEBUG:scrapy.core.scraper:Scraped from <200 https://www.ncaa.com/rankings/lacrosse-men/d1/inside-lacrosse>
+None
+INFO:scrapy.core.engine:Closing spider (finished)
+INFO:scrapy.statscollectors:Dumping Scrapy stats:
+{'bans/error/twisted.web._newclient.ResponseNeverReceived': 1,
+ 'downloader/exception_count': 1,
+ 'downloader/exception_type_count/twisted.web._newclient.ResponseNeverReceived': 1,
+ 'downloader/request_bytes': 644,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/response_bytes': 22597,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'elapsed_time_seconds': 6.326327,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 4, 13, 22, 38, 10, 529759),
+ 'item_scraped_count': 1,
+ 'log_count/DEBUG': 59,
+ 'log_count/INFO': 9,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2020, 4, 13, 22, 38, 4, 203432)}
+INFO:scrapy.core.engine:Spider closed (finished)
