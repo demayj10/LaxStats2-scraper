@@ -44,7 +44,7 @@ def run_scraper():
         datetime.now().strftime("%H:%M")))
 
 
-schedule.every().day.at("18:38").do(run_scraper)
+schedule.every().day.at("03:00").do(run_scraper)
 
 while True:
     schedule.run_pending()

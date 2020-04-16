@@ -1,5 +1,8 @@
 import time
 import os
+from datetime import datetime
+from datetime import date
+import logging
 
 
 def get_time(elapsed_time):
@@ -8,15 +11,15 @@ def get_time(elapsed_time):
     minutes = (elapsed_time - seconds) / 60
 
     hours_string = str(int(hours))
-    seconds_string = str(int(hours))
-    minutes_string = str(int(hours))
+    minutes_string = str(int(minutes))
+    seconds_string = str(int(seconds))
 
     if hours < 10:
         hours_string = "0" + hours_string
-    if seconds < 10:
-        seconds_string = "0" + seconds_string
     if minutes < 10:
         minutes_string = "0" + minutes_string
+    if seconds < 10:
+        seconds_string = "0" + seconds_string
 
     string = "{}:{}:{}".format(hours_string, minutes_string, seconds_string)
     return string
@@ -54,6 +57,16 @@ def run_spiders():
 
 
 def output_times(spider_times, total):
+    for handler in logging.root.handlers[:]:
+        logging.root.removeHandler(handler)
+    timeFileName = os.path.join(os.path.dirname(os.path.realpath(
+        __file__)), 'cleanLogs\\runtimes.log')
+    logging.basicConfig(filename=timeFileName, level=logging.DEBUG)
+    time_logger = logging.getLogger(timeFileName)
+
+    time_logger.info("{}||{},{},{},{},{},{},{}".format(date.today(
+    ), spider_times[0], spider_times[1], spider_times[2], spider_times[3], spider_times[4], spider_times[5], total))
+
     print("\n-----------------------------------------------------------")
     print("{:28}{}".format("Division Scraper Runtime", spider_times[0]))
     print("{:28}{}".format("Team Scraper Runtime:", spider_times[1]))

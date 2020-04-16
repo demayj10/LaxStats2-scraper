@@ -1,0 +1,558 @@
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Brian Voelker' has been updated for Team 'Drexel Dragons'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493847>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493860> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Dave Pietramala' has been updated for Team 'Johns Hopkins Blue Jays'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493859>
+None
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://18.234.119.7:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Patrick Myers' has been updated for Team 'Lafayette Leopards'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493860>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493850> (referer: None)
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493861> (referer: None)
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493842> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://64.225.31.63:1080
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://73.138.75.151:8080
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://107.178.6.30:8080
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Richie Meade' has been updated for Team 'Furman Paladins'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493850>
+None
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Kevin Cassese' has been updated for Team 'Lehigh Mountain Hawks'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493861>
+None
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Peter Milliman' has been updated for Team 'Cornell Big Red'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493842>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493854> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://40.117.232.113:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493858> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://50.0.51.253:46917
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493845> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://198.226.42.73:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Bill Tierney' has been updated for Team 'Denver Pioneers'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493845>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493835> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://24.113.42.169:48678
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493849> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://54.214.60.134:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Andrew Baxter' has been updated for Team 'Fairfield Stags'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493849>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493855> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://167.71.183.113:8888
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Greg Raymond' has been updated for Team 'Hobart Statesmen'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493855>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493870> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://146.166.117.3:8080
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Kyle Hannan' has been updated for Team 'Mercer Bears'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493870>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493871> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://65.49.222.187:8080
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Kevin Conry' has been updated for Team 'Michigan Wolverines'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493871>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493843> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://50.226.151.24:80
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Brendan Callahan' has been updated for Team 'Dartmouth Big Green'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493843>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493872> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://150.238.61.153:16379
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493872> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://198.226.42.73:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493848> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://66.91.54.191:8080
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'John Danowski' has been updated for Team 'Duke Blue Devils'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493848>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493864> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://52.41.181.3:80
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Drew Kelleher' has been updated for Team 'Manhattan Jaspers'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493864>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493866> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://104.244.75.26:8080
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Andrew Stimmel' has been updated for Team 'Marquette Golden Eagles'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493866>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493872> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://64.225.31.63:1080
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Brian Fisher' has been updated for Team 'Monmouth Hawks'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493872>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493875> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://206.81.10.180:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Travis Johnson' has been updated for Team 'NJIT Highlanders'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493875>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493876> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.222.218.68:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Kevin Corrigan' has been updated for Team 'Notre Dame Fighting Irish'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493876>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493878> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://64.225.24.13:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Jeff Tambroni' has been updated for Team 'Penn St. Nittany Lions'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493878>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493868> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://147.0.153.106:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'John Tillman' has been updated for Team 'Maryland Terrapins, Terps'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493868>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493830> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://163.182.169.150:8888
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493832> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://157.230.165.31:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493836> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.219.104.103:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493837> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.222.244.63:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493838> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493834> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://157.230.155.18:3128
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://40.117.232.113:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493841> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493840> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://146.166.117.3:8080
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://104.245.69.17:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493844> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.220.140.231:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493853> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493851> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493846> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://163.182.169.150:8888
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://50.226.151.17:80
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://107.178.6.30:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493857> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://35.247.242.31:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493840> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.219.104.103:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493834> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.220.140.231:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Andy German' has been updated for Team 'Cleveland St. Vikings'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493840>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493863> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493862> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://69.9.238.22:8080
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://157.230.165.31:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Kevin McKeown' has been updated for Team 'Binghamton Bearcats'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493834>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493865> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://45.76.9.18:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493854> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://64.225.56.233:8000
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493858> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://168.169.146.12:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493832> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://64.225.56.233:8000
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493835> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://165.227.179.143:8118
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493869> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.222.215.18:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493835> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://18.237.91.70:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493858> (referer: None)
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493874> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://147.0.153.106:3128
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://159.65.43.38:8118
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493885> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://198.226.42.73:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'John Galloway' has been updated for Team 'Jacksonville Dolphins'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493858>
+None
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Joe Breschi' has been updated for Team 'North Carolina Tar Heels'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493874>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493863> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://66.42.65.149:8118
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493835> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://35.247.242.31:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Ryan Polley' has been updated for Team 'Boston U. Terriers'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493835>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493863> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://3.82.202.199:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493885> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://50.226.151.4:80
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Brian Brecht' has been updated for Team 'Rutgers Scarlet Knights'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493885>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493873> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://65.182.5.212:8080
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493852> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://64.225.24.13:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Rashad Devoe' has been updated for Team 'Hampton Pirates'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493852>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493879> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://69.9.238.22:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493880> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://147.135.124.6:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493836> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://207.183.187.188:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493837> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.220.140.231:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493838> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://104.244.75.26:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493844> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://18.234.119.7:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493851> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493853> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://104.245.69.26:3128
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://24.113.38.57:48678
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493857> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://18.237.91.70:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493836> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://18.237.91.70:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493882> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://104.245.69.17:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493862> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://24.113.42.177:48678
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493883> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://3.82.202.199:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493838> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://50.201.51.216:8080
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Ed Stephenson' has been updated for Team 'UMass Lowell River Hawks'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493862>
+None
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Frank Fedorjaka' has been updated for Team 'Bucknell Bison'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493838>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493857> (referer: None)
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493844> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://3.82.202.199:3128
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://50.226.151.30:80
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Peter Burke' has been updated for Team 'Holy Cross Crusaders'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493857>
+None
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Ben DeLuca' has been updated for Team 'Delaware Blue Hens'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493844>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493890> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.219.106.61:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Anthony Gilardi' has been updated for Team 'Stony Brook Seawolves'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493890>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493869> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://163.182.169.150:8888
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493851> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://18.237.91.70:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Kevin Warne' has been updated for Team 'Georgetown Hoyas'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493851>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493886> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://198.226.42.73:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493863> with another proxy (failed 4 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://159.89.128.93:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493887> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://70.165.64.210:48678
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493894> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://3.94.59.144:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Joe Alberici' has been updated for Team 'Army West Point Black Knights'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493894>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493886> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://104.245.69.17:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Jonathan Basti' has been updated for Team 'Sacred Heart Pioneers'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493886>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493863> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://18.234.119.7:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Charley Toomey' has been updated for Team 'Loyola Maryland Greyhounds'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493863>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493887> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://206.81.10.180:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Jason Miller' has been updated for Team 'St. John's (NY) Red Storm'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493887>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493897> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://70.165.65.233:48678
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493836> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://45.76.67.32:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Michael Corrado' has been updated for Team 'Villanova Wildcats'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493897>
+None
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Mike Daly' has been updated for Team 'Brown Bears'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493836>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493898> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://104.245.69.17:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Jon Birsner' has been updated for Team 'VMI Keydets'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493898>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493888> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://167.172.138.162:8080
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493888> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://162.252.144.229:8181
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Taylor Wray' has been updated for Team 'Saint Joseph's Hawks'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493888>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493879> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.73.72.29:80
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493879> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.222.105.32:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493880> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://104.245.69.26:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493854> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://147.0.153.106:3128
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Gerry Byrne' has been updated for Team 'Harvard Crimson'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493854>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493832> (referer: None)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://52.20.221.19:80
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Scott Marr' has been updated for Team 'Albany (NY) Great Danes'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493832>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493900> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Bill McCutcheon' has been updated for Team 'Wagner Seahawks'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493900>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493865> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Keegan Wilkinson' has been updated for Team 'Marist Red Foxes'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493865>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493902> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Jon Torpey' has been updated for Team 'High Point Panthers'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493902>
+None
+INFO:scrapy.extensions.logstats:Crawled 46 pages (at 46 pages/min), scraped 46 items (at 46 items/min)
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493837> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://18.237.91.70:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493853> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://104.245.69.17:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493882> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://72.252.4.89:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493889> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://174.128.6.13:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493883> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://72.252.4.89:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493891> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://3.94.59.144:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493892> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://64.227.30.107:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493837> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Mike Pressler' has been updated for Team 'Bryant Bulldogs'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493837>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493893> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://75.76.51.18:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493893> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://18.237.91.70:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493896> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://72.252.4.89:8080
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493893> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Bill Wilson' has been updated for Team 'Air Force Falcons'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493893>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493899> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://138.68.53.44:8118
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493901> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://65.182.5.212:8080
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493896> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Chris Feifs' has been updated for Team 'Vermont Catamounts'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493896>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493879> with another proxy (failed 4 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://129.146.138.235:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493880> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://138.197.211.71:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493853> with another proxy (failed 4 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://192.225.214.132:80
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493853> with another proxy (failed 5 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://70.169.150.186:48678
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493880> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Matt Madalon' has been updated for Team 'Princeton Tigers'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493880>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493882> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://52.41.181.3:80
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493889> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://167.71.183.113:8888
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493883> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://198.226.42.73:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493891> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://34.222.105.107:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493889> (referer: None)
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493883> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Liam Gleason' has been updated for Team 'Siena Saints'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493889>
+None
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Dan Chemotti' has been updated for Team 'Richmond Spiders'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493883>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493882> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Mason Poli' has been updated for Team 'Quinnipiac Bobcats'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493882>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493901> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://70.169.150.186:48678
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493901> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Andy Shay' has been updated for Team 'Yale Elis, Bulldogs'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493901>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493879> with another proxy (failed 5 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://73.181.95.147:80
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/497536> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://45.76.9.18:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493899> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Lars Tiffany' has been updated for Team 'Virginia Cavaliers'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493899>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/497536> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Eric Wolf' has been updated for Team 'LIU Sharks'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/497536>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Gave up retrying <GET https://stats.ncaa.org/teams/493853> (failed 6 times with different proxies)
+DEBUG:scrapy_proxy_pool.middlewares:Try with host ip
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493891> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://104.244.75.26:8080
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493853> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Ryan Martin' has been updated for Team 'Hartford Hawks'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493853>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493831> (referer: None)
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493839> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Brian Holman' has been updated for Team 'Utah Utes'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493831>
+None
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Mark ' has been updated for Team 'Canisius Golden Griffins'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493839>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493891> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'John Desko' has been updated for Team 'Syracuse Orange'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493891>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493892> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Shawn Nadelen' has been updated for Team 'Towson Tigers'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493892>
+None
+INFO:scrapy.extensions.logstats:Crawled 61 pages (at 15 pages/min), scraped 61 items (at 15 items/min)
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493846> (referer: None)
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493830> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Chris Kolon' has been updated for Team 'Detroit Mercy Titans'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493846>
+None
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Randy Mearns' has been updated for Team 'St. Bonaventure Bonnies'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493830>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Gave up retrying <GET https://stats.ncaa.org/teams/493879> (failed 6 times with different proxies)
+DEBUG:scrapy_proxy_pool.middlewares:Try with host ip
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493879> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Mike Murphy' has been updated for Team 'Penn Quakers'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493879>
+None
+INFO:scrapy.extensions.logstats:Crawled 64 pages (at 3 pages/min), scraped 64 items (at 3 items/min)
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493833> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://104.244.75.26:8080
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493856> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://138.197.211.71:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493833> (referer: None)
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493856> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Andrew Whitley' has been updated for Team 'Bellarmine Knights'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493833>
+None
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Seth Tierney' has been updated for Team 'Hofstra Pride'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493856>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493867> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://147.0.153.106:3128
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493877> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://45.76.9.18:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493877> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Nick Myers' has been updated for Team 'Ohio St. Buckeyes'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493877>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493881> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://64.227.30.107:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493881> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Chris Gabrielli' has been updated for Team 'Providence Friars'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493881>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493841> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://167.172.138.162:8080
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493841> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Matt Karweck' has been updated for Team 'Colgate Raiders'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493841>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493884> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://45.76.67.32:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493884> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Andrew McMinn' has been updated for Team 'Robert Morris Colonials'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493884>
+None
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493869> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Greg Cannella' has been updated for Team 'Massachusetts Minutemen'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493869>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493873> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://138.197.32.120:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493873> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Tom Gravante' has been updated for Team 'Mount St. Mary's Mountaineers'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493873>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493895> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://18.237.91.70:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493895> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Joe Amplo' has been updated for Team 'Navy Midshipmen'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493895>
+None
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493920> with another proxy (failed 1 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://45.76.9.18:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493920> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Michael Morgan' has been updated for Team 'Merrimack Warriors'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493920>
+None
+INFO:scrapy.extensions.logstats:Crawled 74 pages (at 10 pages/min), scraped 74 items (at 10 items/min)
+INFO:scrapy.extensions.logstats:Crawled 74 pages (at 0 pages/min), scraped 74 items (at 0 items/min)
+INFO:scrapy.extensions.logstats:Crawled 74 pages (at 0 pages/min), scraped 74 items (at 0 items/min)
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493867> with another proxy (failed 2 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://163.182.169.150:8888
+INFO:scrapy.extensions.logstats:Crawled 74 pages (at 0 pages/min), scraped 74 items (at 0 items/min)
+INFO:scrapy.extensions.logstats:Crawled 74 pages (at 0 pages/min), scraped 74 items (at 0 items/min)
+INFO:scrapy.extensions.logstats:Crawled 74 pages (at 0 pages/min), scraped 74 items (at 0 items/min)
+DEBUG:scrapy_proxy_pool.middlewares:Retrying <GET https://stats.ncaa.org/teams/493867> with another proxy (failed 3 times, max retries: 5)
+DEBUG:scrapy_proxy_pool.middlewares:[ProxyChoosen] http://45.33.110.155:3128
+DEBUG:scrapy.core.engine:Crawled (200) <GET https://stats.ncaa.org/teams/493867> (referer: None)
+INFO:F:\ReactProjects\laxstats2\laxstatscraper\laxstatscraper\logs\coaches\2020-04-14.log:Coach 'Ryan Moran' has been updated for Team 'UMBC Retrievers'
+DEBUG:scrapy.core.scraper:Scraped from <200 https://stats.ncaa.org/teams/493867>
+None
+INFO:scrapy.core.engine:Closing spider (finished)
+INFO:scrapy.statscollectors:Dumping Scrapy stats:
+{'bans/error/scrapy.core.downloader.handlers.http11.TunnelError': 8,
+ 'bans/error/twisted.internet.error.ConnectionRefusedError': 7,
+ 'bans/error/twisted.internet.error.TCPTimedOutError': 61,
+ 'bans/error/twisted.internet.error.TimeoutError': 12,
+ 'bans/status/403': 1,
+ 'downloader/exception_count': 88,
+ 'downloader/exception_type_count/scrapy.core.downloader.handlers.http11.TunnelError': 8,
+ 'downloader/exception_type_count/twisted.internet.error.ConnectionRefusedError': 7,
+ 'downloader/exception_type_count/twisted.internet.error.TCPTimedOutError': 61,
+ 'downloader/exception_type_count/twisted.internet.error.TimeoutError': 12,
+ 'downloader/request_bytes': 81148,
+ 'downloader/request_count': 164,
+ 'downloader/request_method_count/GET': 164,
+ 'downloader/response_bytes': 491520,
+ 'downloader/response_count': 76,
+ 'downloader/response_status_count/200': 75,
+ 'downloader/response_status_count/403': 1,
+ 'elapsed_time_seconds': 573.381613,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 4, 14, 7, 15, 30, 447497),
+ 'item_scraped_count': 75,
+ 'log_count/DEBUG': 91,
+ 'log_count/INFO': 9,
+ 'response_received_count': 75,
+ 'scheduler/dequeued': 164,
+ 'scheduler/dequeued/memory': 164,
+ 'scheduler/enqueued': 164,
+ 'scheduler/enqueued/memory': 164,
+ 'start_time': datetime.datetime(2020, 4, 14, 7, 5, 57, 65884)}
+INFO:scrapy.core.engine:Spider closed (finished)
