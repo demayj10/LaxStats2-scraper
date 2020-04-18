@@ -6,6 +6,7 @@ from ..items import Player
 from ..links import RosterLinks
 from ..parser import Parser
 import uuid
+import time
 
 # Spider created 2/5/2020 by John DeMay
 # Might be able to simplify the data parsing
@@ -16,8 +17,8 @@ class Division1playersSpider(scrapy.Spider):
     links = RosterLinks()
 
     # print(links.roster_links)
-    start_urls = links.roster_links
-    # start_urls = ['https://stats.ncaa.org/team/282/stats/15203']
+    # start_urls = links.roster_links
+    start_urls = ['https://stats.ncaa.org/team/282/stats/15203']
 
     def parse(self, response):
         player = Player()
@@ -48,7 +49,13 @@ class Division1playersSpider(scrapy.Spider):
                     position.strip()
                 games_played = Selector(text=p_data[4]).css(
                     'td::text').get().strip()
+                start_time = time.time()
                 goals = Selector(text=p_data[8]).css('div::text').get().strip()
+                total_time = time.time() - start_time
+                print('-----------------------------------------------------------------------')
+                print(total_time)
+                print('-----------------------------------------------------------------------')
+                break
                 assists = Selector(text=p_data[9]).css(
                     'div::text').get().strip()
                 points = Selector(text=p_data[10]).css(

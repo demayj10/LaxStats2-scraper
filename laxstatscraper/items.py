@@ -22,11 +22,9 @@ class Team(scrapy.Item):
     # primary_color = scrapy.Field()
     # secondary_color = scrapy.Field()
 
-
 class Ranking(scrapy.Item):
     rank = scrapy.Field()
     team = scrapy.Field()
-
 
 class Game(scrapy.Item):
     uuid = scrapy.Field()
@@ -34,7 +32,6 @@ class Game(scrapy.Item):
     date = scrapy.Field()
     opponent = scrapy.Field()
     result = scrapy.Field()
-
 
 class Player(scrapy.Item):
     uuid = scrapy.Field()
@@ -60,11 +57,33 @@ class Player(scrapy.Item):
     faceoff_win_pct = scrapy.Field()
     penalties = scrapy.Field()
     penalty_time = scrapy.Field()
-    games_played = scrapy.Field()
     goals_allowed = scrapy.Field()
     saves = scrapy.Field()
     save_pct = scrapy.Field()
 
+# class WomensLacrossePlayer(scrapy.item):
+#     uuid = scrapy.Field()
+#     team = scrapy.Field()
+#     first_name = scrapy.Field()
+#     last_name = scrapy.Field()
+#     jersey = scrapy.Field()
+#     year = scrapy.Field()
+#     position = scrapy.Field()
+#     games_played = scrapy.Field()
+#     fouls = scrapy.Field()
+#     goals = scrapy.Field()
+#     assists = scrapy.Field()
+#     points = scrapy.Field()
+#     shots = scrapy.Field()
+#     shot_pct = scrapy.Field()
+#     sog = scrapy.Field()
+#     sog_pct = scrapy.Field()
+#     groundballs = scrapy.Field()
+#     caused_turnovers = scrapy.Field()
+#     goals_allowed = scrapy.Field()
+#     saves = scrapy.Field()
+#     save_pct = scrapy.Field()
+#     draw_controls = scrapy.Field()
 
 class Coach(scrapy.Item):
     uuid = scrapy.Field()

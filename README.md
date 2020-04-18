@@ -3,7 +3,7 @@
 Scrapy webscraper that grabs all data from the NCAA lacrosse statistic pages and loads
 it into a database
 
-### /laxscraper
+### /laxstatscraper
 
 Scrapy project will be housed in here
 
