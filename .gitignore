@@ -9,3 +9,9 @@
 
 # Config
 /config
+
+# To further ignore files in the future, commit changes then
+# Run 'git rm -rf --cached .' then:
+# 'git add .' and then commit, push
+# This removes the tracking from all of the files in repo then adds tracking
+# for all files in the updated .gitignore
