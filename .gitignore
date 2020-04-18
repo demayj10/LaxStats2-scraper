@@ -4,5 +4,8 @@
 # Input data
 *.txt
 
+# pycache
+*.pyc
+
 # Config
 /config
