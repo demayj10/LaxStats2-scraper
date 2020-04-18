@@ -57,15 +57,12 @@ def run_spiders():
 
 
 def output_times(spider_times, total):
-    for handler in logging.root.handlers[:]:
-        logging.root.removeHandler(handler)
-    timeFileName = os.path.join(os.path.dirname(os.path.realpath(
-        __file__)), 'cleanLogs\\runtimes.log')
-    logging.basicConfig(filename=timeFileName, level=logging.DEBUG)
-    time_logger = logging.getLogger(timeFileName)
+    f = open('laxstatscraper\\cleanLogs\\runtimes.log', "a")
 
-    time_logger.info("{}||{},{},{},{},{},{},{}".format(date.today(
+    f.write("{}||{},{},{},{},{},{},{}\n".format(date.today(
     ), spider_times[0], spider_times[1], spider_times[2], spider_times[3], spider_times[4], spider_times[5], total))
+
+    f.close()
 
     print("\n-----------------------------------------------------------")
     print("{:28}{}".format("Division Scraper Runtime", spider_times[0]))

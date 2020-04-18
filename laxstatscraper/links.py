@@ -1,4 +1,5 @@
 import mysql.connector
+from config.index import DatabaseConfig
 
 
 class TeamLinks():
@@ -11,11 +12,12 @@ class TeamLinks():
         self.close_connection()
 
     def create_connection(self):
+        config = DatabaseConfig()
         self.conn = mysql.connector.connect(
-            host='laxstats.c1rvoewfjdxl.us-east-2.rds.amazonaws.com',
-            user='laxadmin',
-            passwd='laxstats#32',
-            database='laxstats'
+            host=config.host,
+            user=config.user,
+            passwd=config.passwd,
+            database=config.database
         )
         self.cur = self.conn.cursor()
 

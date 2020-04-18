@@ -30,7 +30,7 @@ ROBOTSTXT_OBEY = False
 PROXY_POOL_ENABLED = True
 
 # Number of proxies to try before giving up (default: 5)
-PROXY_POOL_PAGE_RETRY_TIMES = 5
+PROXY_POOL_PAGE_RETRY_TIMES = 3
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 CONCURRENT_REQUESTS = 64
