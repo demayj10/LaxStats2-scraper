@@ -1,4 +1,7 @@
-/laxstatscraper/logs
-/laxstatscraper/inputData
-/laxstatscraper/cleanLogs
-/laxstatscraper/config
+# Logs
+**/logs
+**/inputData
+**/cleanLogs
+
+# Config
+/config
